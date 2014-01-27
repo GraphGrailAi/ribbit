@@ -32,7 +32,7 @@ print twitter_api
 
 WORLD_WOE_ID = 1
 US_WOE_ID = 23424977
-RU_WOE_ID = 23424936
+ru_woe_id = 23424936
 
 # Prefix ID with the underscore for query string parameterization.
 # Without the underscore, the twitter package appends the ID value
